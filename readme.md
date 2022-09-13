@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Tonybrandt/Web-job]
+- Live Site URL: [https://tonybrandt.github.io/Web-job/]
 
 ## My process
 
